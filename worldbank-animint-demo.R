@@ -1,6 +1,6 @@
 # ==== WORLD BANK INTERACTIVE VISUALIZATION ====
 
-#required packages if not already installed
+# Install required packages if not already installed
 packages <- c("animint2", "data.table", "ggplot2")
 for(p in packages) if(!requireNamespace(p, quietly=TRUE)) install.packages(p)
 
@@ -13,9 +13,10 @@ data(WorldBank)
 wb <- data.table(WorldBank)
 wb$Region <- sub(" (all income levels)", "", wb$region, fixed = TRUE)
 
+# Fill missing population with a placeholder
 wb[is.na(population), population := 1700000]
 
-# Helper functions 
+# Helper functions for facets
 FACETS <- function(df, top, side){
   data.frame(df,
              top=factor(top, c("Fertility rate", "Years")),
@@ -40,6 +41,7 @@ ts.life <- ggplot() +
             data = TS.LIFE(wb),
             size = 2, alpha = 0.6)
 
+# Add faceting and theme
 ts.facet <- ts.life +
   theme_bw() +
   theme(panel.margin = grid::unit(0, "lines")) +
@@ -76,7 +78,6 @@ scatter.complete <- scatter.plot +
             data = fert.df,
             size = 2, alpha = 0.6)
 
-# animint2 object
 viz <- animint(
   title = "World Bank Interactive Demo",
   scatter = scatter.complete + theme_animint(width = 900, height = 600),
@@ -86,8 +87,4 @@ viz <- animint(
   selector.types = list(country = "multiple")
 )
 
-animint2dir(
-  viz_worldbank,
-  out.dir = "~/Desktop/worldbank-animint-test/WorldBank_exercise",
-  open.browser = TRUE
-)
+animint2dir(viz, out.dir = "WorldBank_animint_demo", open.browser = TRUE)
