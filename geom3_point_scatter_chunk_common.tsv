@@ -1,0 +1,215 @@
+group	PANEL	clickSelects	colour	fill	key	showSelected2
+1	3	Andorra	#C49A00	#C49A00	Andorra	Europe & Central Asia
+1	3	United Arab Emirates	#00C094	#00C094	United Arab Emirates	Middle East & North Africa
+1	3	Afghanistan	#A58AFF	#A58AFF	Afghanistan	South Asia
+1	3	Antigua and Barbuda	#53B400	#53B400	Antigua and Barbuda	Latin America & Caribbean
+1	3	Albania	#C49A00	#C49A00	Albania	Europe & Central Asia
+1	3	Armenia	#C49A00	#C49A00	Armenia	Europe & Central Asia
+1	3	Angola	#FB61D7	#FB61D7	Angola	Sub-Saharan Africa
+1	3	Argentina	#53B400	#53B400	Argentina	Latin America & Caribbean
+1	3	American Samoa	#F8766D	#F8766D	American Samoa	East Asia & Pacific
+1	3	Austria	#C49A00	#C49A00	Austria	Europe & Central Asia
+1	3	Australia	#F8766D	#F8766D	Australia	East Asia & Pacific
+1	3	Aruba	#53B400	#53B400	Aruba	Latin America & Caribbean
+1	3	Azerbaijan	#C49A00	#C49A00	Azerbaijan	Europe & Central Asia
+1	3	Bosnia and Herzegovina	#C49A00	#C49A00	Bosnia and Herzegovina	Europe & Central Asia
+1	3	Barbados	#53B400	#53B400	Barbados	Latin America & Caribbean
+1	3	Bangladesh	#A58AFF	#A58AFF	Bangladesh	South Asia
+1	3	Belgium	#C49A00	#C49A00	Belgium	Europe & Central Asia
+1	3	Burkina Faso	#FB61D7	#FB61D7	Burkina Faso	Sub-Saharan Africa
+1	3	Bulgaria	#C49A00	#C49A00	Bulgaria	Europe & Central Asia
+1	3	Bahrain	#00C094	#00C094	Bahrain	Middle East & North Africa
+1	3	Burundi	#FB61D7	#FB61D7	Burundi	Sub-Saharan Africa
+1	3	Benin	#FB61D7	#FB61D7	Benin	Sub-Saharan Africa
+1	3	Bermuda	#00B6EB	#00B6EB	Bermuda	North America
+1	3	Brunei Darussalam	#F8766D	#F8766D	Brunei Darussalam	East Asia & Pacific
+1	3	Bolivia	#53B400	#53B400	Bolivia	Latin America & Caribbean
+1	3	Brazil	#53B400	#53B400	Brazil	Latin America & Caribbean
+1	3	Bahamas, The	#53B400	#53B400	Bahamas, The	Latin America & Caribbean
+1	3	Bhutan	#A58AFF	#A58AFF	Bhutan	South Asia
+1	3	Botswana	#FB61D7	#FB61D7	Botswana	Sub-Saharan Africa
+1	3	Belarus	#C49A00	#C49A00	Belarus	Europe & Central Asia
+1	3	Belize	#53B400	#53B400	Belize	Latin America & Caribbean
+1	3	Canada	#00B6EB	#00B6EB	Canada	North America
+1	3	Congo, Dem. Rep.	#FB61D7	#FB61D7	Congo, Dem. Rep.	Sub-Saharan Africa
+1	3	Central African Republic	#FB61D7	#FB61D7	Central African Republic	Sub-Saharan Africa
+1	3	Congo, Rep.	#FB61D7	#FB61D7	Congo, Rep.	Sub-Saharan Africa
+1	3	Switzerland	#C49A00	#C49A00	Switzerland	Europe & Central Asia
+1	3	Cote d'Ivoire	#FB61D7	#FB61D7	Cote d'Ivoire	Sub-Saharan Africa
+1	3	Chile	#53B400	#53B400	Chile	Latin America & Caribbean
+1	3	Cameroon	#FB61D7	#FB61D7	Cameroon	Sub-Saharan Africa
+1	3	China	#F8766D	#F8766D	China	East Asia & Pacific
+1	3	Colombia	#53B400	#53B400	Colombia	Latin America & Caribbean
+1	3	Costa Rica	#53B400	#53B400	Costa Rica	Latin America & Caribbean
+1	3	Cuba	#53B400	#53B400	Cuba	Latin America & Caribbean
+1	3	Cape Verde	#FB61D7	#FB61D7	Cape Verde	Sub-Saharan Africa
+1	3	Curacao	#53B400	#53B400	Curacao	Latin America & Caribbean
+1	3	Cyprus	#C49A00	#C49A00	Cyprus	Europe & Central Asia
+1	3	Czech Republic	#C49A00	#C49A00	Czech Republic	Europe & Central Asia
+1	3	Germany	#C49A00	#C49A00	Germany	Europe & Central Asia
+1	3	Djibouti	#00C094	#00C094	Djibouti	Middle East & North Africa
+1	3	Denmark	#C49A00	#C49A00	Denmark	Europe & Central Asia
+1	3	Dominica	#53B400	#53B400	Dominica	Latin America & Caribbean
+1	3	Dominican Republic	#53B400	#53B400	Dominican Republic	Latin America & Caribbean
+1	3	Algeria	#00C094	#00C094	Algeria	Middle East & North Africa
+1	3	Ecuador	#53B400	#53B400	Ecuador	Latin America & Caribbean
+1	3	Estonia	#C49A00	#C49A00	Estonia	Europe & Central Asia
+1	3	Egypt, Arab Rep.	#00C094	#00C094	Egypt, Arab Rep.	Middle East & North Africa
+1	3	Eritrea	#FB61D7	#FB61D7	Eritrea	Sub-Saharan Africa
+1	3	Spain	#C49A00	#C49A00	Spain	Europe & Central Asia
+1	3	Ethiopia	#FB61D7	#FB61D7	Ethiopia	Sub-Saharan Africa
+1	3	Finland	#C49A00	#C49A00	Finland	Europe & Central Asia
+1	3	Fiji	#F8766D	#F8766D	Fiji	East Asia & Pacific
+1	3	Micronesia, Fed. Sts.	#F8766D	#F8766D	Micronesia, Fed. Sts.	East Asia & Pacific
+1	3	Faeroe Islands	#C49A00	#C49A00	Faeroe Islands	Europe & Central Asia
+1	3	France	#C49A00	#C49A00	France	Europe & Central Asia
+1	3	Gabon	#FB61D7	#FB61D7	Gabon	Sub-Saharan Africa
+1	3	United Kingdom	#C49A00	#C49A00	United Kingdom	Europe & Central Asia
+1	3	Grenada	#53B400	#53B400	Grenada	Latin America & Caribbean
+1	3	Georgia	#C49A00	#C49A00	Georgia	Europe & Central Asia
+1	3	Ghana	#FB61D7	#FB61D7	Ghana	Sub-Saharan Africa
+1	3	Greenland	#C49A00	#C49A00	Greenland	Europe & Central Asia
+1	3	Gambia, The	#FB61D7	#FB61D7	Gambia, The	Sub-Saharan Africa
+1	3	Guinea	#FB61D7	#FB61D7	Guinea	Sub-Saharan Africa
+1	3	Equatorial Guinea	#FB61D7	#FB61D7	Equatorial Guinea	Sub-Saharan Africa
+1	3	Greece	#C49A00	#C49A00	Greece	Europe & Central Asia
+1	3	Guatemala	#53B400	#53B400	Guatemala	Latin America & Caribbean
+1	3	Guam	#F8766D	#F8766D	Guam	East Asia & Pacific
+1	3	Guinea-Bissau	#FB61D7	#FB61D7	Guinea-Bissau	Sub-Saharan Africa
+1	3	Guyana	#53B400	#53B400	Guyana	Latin America & Caribbean
+1	3	Hong Kong SAR, China	#F8766D	#F8766D	Hong Kong SAR, China	East Asia & Pacific
+1	3	Honduras	#53B400	#53B400	Honduras	Latin America & Caribbean
+1	3	Croatia	#C49A00	#C49A00	Croatia	Europe & Central Asia
+1	3	Haiti	#53B400	#53B400	Haiti	Latin America & Caribbean
+1	3	Hungary	#C49A00	#C49A00	Hungary	Europe & Central Asia
+1	3	Indonesia	#F8766D	#F8766D	Indonesia	East Asia & Pacific
+1	3	Ireland	#C49A00	#C49A00	Ireland	Europe & Central Asia
+1	3	Israel	#00C094	#00C094	Israel	Middle East & North Africa
+1	3	Isle of Man	#C49A00	#C49A00	Isle of Man	Europe & Central Asia
+1	3	India	#A58AFF	#A58AFF	India	South Asia
+1	3	Iraq	#00C094	#00C094	Iraq	Middle East & North Africa
+1	3	Iran, Islamic Rep.	#00C094	#00C094	Iran, Islamic Rep.	Middle East & North Africa
+1	3	Iceland	#C49A00	#C49A00	Iceland	Europe & Central Asia
+1	3	Italy	#C49A00	#C49A00	Italy	Europe & Central Asia
+1	3	Channel Islands	#C49A00	#C49A00	Channel Islands	Europe & Central Asia
+1	3	Jamaica	#53B400	#53B400	Jamaica	Latin America & Caribbean
+1	3	Jordan	#00C094	#00C094	Jordan	Middle East & North Africa
+1	3	Japan	#F8766D	#F8766D	Japan	East Asia & Pacific
+1	3	Kenya	#FB61D7	#FB61D7	Kenya	Sub-Saharan Africa
+1	3	Kyrgyz Republic	#C49A00	#C49A00	Kyrgyz Republic	Europe & Central Asia
+1	3	Cambodia	#F8766D	#F8766D	Cambodia	East Asia & Pacific
+1	3	Kiribati	#F8766D	#F8766D	Kiribati	East Asia & Pacific
+1	3	Comoros	#FB61D7	#FB61D7	Comoros	Sub-Saharan Africa
+1	3	St. Kitts and Nevis	#53B400	#53B400	St. Kitts and Nevis	Latin America & Caribbean
+1	3	Korea, Dem. Rep.	#F8766D	#F8766D	Korea, Dem. Rep.	East Asia & Pacific
+1	3	Korea, Rep.	#F8766D	#F8766D	Korea, Rep.	East Asia & Pacific
+1	3	Kosovo	#C49A00	#C49A00	Kosovo	Europe & Central Asia
+1	3	Kuwait	#00C094	#00C094	Kuwait	Middle East & North Africa
+1	3	Cayman Islands	#53B400	#53B400	Cayman Islands	Latin America & Caribbean
+1	3	Kazakhstan	#C49A00	#C49A00	Kazakhstan	Europe & Central Asia
+1	3	Lao PDR	#F8766D	#F8766D	Lao PDR	East Asia & Pacific
+1	3	Lebanon	#00C094	#00C094	Lebanon	Middle East & North Africa
+1	3	St. Lucia	#53B400	#53B400	St. Lucia	Latin America & Caribbean
+1	3	Liechtenstein	#C49A00	#C49A00	Liechtenstein	Europe & Central Asia
+1	3	Sri Lanka	#A58AFF	#A58AFF	Sri Lanka	South Asia
+1	3	Liberia	#FB61D7	#FB61D7	Liberia	Sub-Saharan Africa
+1	3	Lesotho	#FB61D7	#FB61D7	Lesotho	Sub-Saharan Africa
+1	3	Lithuania	#C49A00	#C49A00	Lithuania	Europe & Central Asia
+1	3	Luxembourg	#C49A00	#C49A00	Luxembourg	Europe & Central Asia
+1	3	Latvia	#C49A00	#C49A00	Latvia	Europe & Central Asia
+1	3	Libya	#00C094	#00C094	Libya	Middle East & North Africa
+1	3	Morocco	#00C094	#00C094	Morocco	Middle East & North Africa
+1	3	Monaco	#C49A00	#C49A00	Monaco	Europe & Central Asia
+1	3	Moldova	#C49A00	#C49A00	Moldova	Europe & Central Asia
+1	3	Montenegro	#C49A00	#C49A00	Montenegro	Europe & Central Asia
+1	3	St. Martin (French part)	#53B400	#53B400	St. Martin (French part)	Latin America & Caribbean
+1	3	Madagascar	#FB61D7	#FB61D7	Madagascar	Sub-Saharan Africa
+1	3	Marshall Islands	#F8766D	#F8766D	Marshall Islands	East Asia & Pacific
+1	3	Macedonia, FYR	#C49A00	#C49A00	Macedonia, FYR	Europe & Central Asia
+1	3	Mali	#FB61D7	#FB61D7	Mali	Sub-Saharan Africa
+1	3	Myanmar	#F8766D	#F8766D	Myanmar	East Asia & Pacific
+1	3	Mongolia	#F8766D	#F8766D	Mongolia	East Asia & Pacific
+1	3	Macao SAR, China	#F8766D	#F8766D	Macao SAR, China	East Asia & Pacific
+1	3	Northern Mariana Islands	#F8766D	#F8766D	Northern Mariana Islands	East Asia & Pacific
+1	3	Mauritania	#FB61D7	#FB61D7	Mauritania	Sub-Saharan Africa
+1	3	Malta	#00C094	#00C094	Malta	Middle East & North Africa
+1	3	Mauritius	#FB61D7	#FB61D7	Mauritius	Sub-Saharan Africa
+1	3	Maldives	#A58AFF	#A58AFF	Maldives	South Asia
+1	3	Malawi	#FB61D7	#FB61D7	Malawi	Sub-Saharan Africa
+1	3	Mexico	#53B400	#53B400	Mexico	Latin America & Caribbean
+1	3	Malaysia	#F8766D	#F8766D	Malaysia	East Asia & Pacific
+1	3	Mozambique	#FB61D7	#FB61D7	Mozambique	Sub-Saharan Africa
+1	3	Namibia	#FB61D7	#FB61D7	Namibia	Sub-Saharan Africa
+1	3	New Caledonia	#F8766D	#F8766D	New Caledonia	East Asia & Pacific
+1	3	Niger	#FB61D7	#FB61D7	Niger	Sub-Saharan Africa
+1	3	Nigeria	#FB61D7	#FB61D7	Nigeria	Sub-Saharan Africa
+1	3	Nicaragua	#53B400	#53B400	Nicaragua	Latin America & Caribbean
+1	3	Netherlands	#C49A00	#C49A00	Netherlands	Europe & Central Asia
+1	3	Norway	#C49A00	#C49A00	Norway	Europe & Central Asia
+1	3	Nepal	#A58AFF	#A58AFF	Nepal	South Asia
+1	3	New Zealand	#F8766D	#F8766D	New Zealand	East Asia & Pacific
+1	3	Oman	#00C094	#00C094	Oman	Middle East & North Africa
+1	3	Panama	#53B400	#53B400	Panama	Latin America & Caribbean
+1	3	Peru	#53B400	#53B400	Peru	Latin America & Caribbean
+1	3	French Polynesia	#F8766D	#F8766D	French Polynesia	East Asia & Pacific
+1	3	Papua New Guinea	#F8766D	#F8766D	Papua New Guinea	East Asia & Pacific
+1	3	Philippines	#F8766D	#F8766D	Philippines	East Asia & Pacific
+1	3	Pakistan	#A58AFF	#A58AFF	Pakistan	South Asia
+1	3	Poland	#C49A00	#C49A00	Poland	Europe & Central Asia
+1	3	Puerto Rico	#53B400	#53B400	Puerto Rico	Latin America & Caribbean
+1	3	West Bank and Gaza	#00C094	#00C094	West Bank and Gaza	Middle East & North Africa
+1	3	Portugal	#C49A00	#C49A00	Portugal	Europe & Central Asia
+1	3	Palau	#F8766D	#F8766D	Palau	East Asia & Pacific
+1	3	Paraguay	#53B400	#53B400	Paraguay	Latin America & Caribbean
+1	3	Qatar	#00C094	#00C094	Qatar	Middle East & North Africa
+1	3	Romania	#C49A00	#C49A00	Romania	Europe & Central Asia
+1	3	Serbia	#C49A00	#C49A00	Serbia	Europe & Central Asia
+1	3	Russian Federation	#C49A00	#C49A00	Russian Federation	Europe & Central Asia
+1	3	Rwanda	#FB61D7	#FB61D7	Rwanda	Sub-Saharan Africa
+1	3	Saudi Arabia	#00C094	#00C094	Saudi Arabia	Middle East & North Africa
+1	3	Solomon Islands	#F8766D	#F8766D	Solomon Islands	East Asia & Pacific
+1	3	Seychelles	#FB61D7	#FB61D7	Seychelles	Sub-Saharan Africa
+1	3	Sudan	#FB61D7	#FB61D7	Sudan	Sub-Saharan Africa
+1	3	Sweden	#C49A00	#C49A00	Sweden	Europe & Central Asia
+1	3	Singapore	#F8766D	#F8766D	Singapore	East Asia & Pacific
+1	3	Slovenia	#C49A00	#C49A00	Slovenia	Europe & Central Asia
+1	3	Slovak Republic	#C49A00	#C49A00	Slovak Republic	Europe & Central Asia
+1	3	Sierra Leone	#FB61D7	#FB61D7	Sierra Leone	Sub-Saharan Africa
+1	3	San Marino	#C49A00	#C49A00	San Marino	Europe & Central Asia
+1	3	Senegal	#FB61D7	#FB61D7	Senegal	Sub-Saharan Africa
+1	3	Somalia	#FB61D7	#FB61D7	Somalia	Sub-Saharan Africa
+1	3	Suriname	#53B400	#53B400	Suriname	Latin America & Caribbean
+1	3	South Sudan	#FB61D7	#FB61D7	South Sudan	Sub-Saharan Africa
+1	3	Sao Tome and Principe	#FB61D7	#FB61D7	Sao Tome and Principe	Sub-Saharan Africa
+1	3	El Salvador	#53B400	#53B400	El Salvador	Latin America & Caribbean
+1	3	Sint Maarten (Dutch part)	#53B400	#53B400	Sint Maarten (Dutch part)	Latin America & Caribbean
+1	3	Syrian Arab Republic	#00C094	#00C094	Syrian Arab Republic	Middle East & North Africa
+1	3	Swaziland	#FB61D7	#FB61D7	Swaziland	Sub-Saharan Africa
+1	3	Turks and Caicos Islands	#53B400	#53B400	Turks and Caicos Islands	Latin America & Caribbean
+1	3	Chad	#FB61D7	#FB61D7	Chad	Sub-Saharan Africa
+1	3	Togo	#FB61D7	#FB61D7	Togo	Sub-Saharan Africa
+1	3	Thailand	#F8766D	#F8766D	Thailand	East Asia & Pacific
+1	3	Tajikistan	#C49A00	#C49A00	Tajikistan	Europe & Central Asia
+1	3	Timor-Leste	#F8766D	#F8766D	Timor-Leste	East Asia & Pacific
+1	3	Turkmenistan	#C49A00	#C49A00	Turkmenistan	Europe & Central Asia
+1	3	Tunisia	#00C094	#00C094	Tunisia	Middle East & North Africa
+1	3	Tonga	#F8766D	#F8766D	Tonga	East Asia & Pacific
+1	3	Turkey	#C49A00	#C49A00	Turkey	Europe & Central Asia
+1	3	Trinidad and Tobago	#53B400	#53B400	Trinidad and Tobago	Latin America & Caribbean
+1	3	Tuvalu	#F8766D	#F8766D	Tuvalu	East Asia & Pacific
+1	3	Tanzania	#FB61D7	#FB61D7	Tanzania	Sub-Saharan Africa
+1	3	Ukraine	#C49A00	#C49A00	Ukraine	Europe & Central Asia
+1	3	Uganda	#FB61D7	#FB61D7	Uganda	Sub-Saharan Africa
+1	3	United States	#00B6EB	#00B6EB	United States	North America
+1	3	Uruguay	#53B400	#53B400	Uruguay	Latin America & Caribbean
+1	3	Uzbekistan	#C49A00	#C49A00	Uzbekistan	Europe & Central Asia
+1	3	St. Vincent and the Grenadines	#53B400	#53B400	St. Vincent and the Grenadines	Latin America & Caribbean
+1	3	Venezuela, RB	#53B400	#53B400	Venezuela, RB	Latin America & Caribbean
+1	3	Virgin Islands (U.S.)	#53B400	#53B400	Virgin Islands (U.S.)	Latin America & Caribbean
+1	3	Vietnam	#F8766D	#F8766D	Vietnam	East Asia & Pacific
+1	3	Vanuatu	#F8766D	#F8766D	Vanuatu	East Asia & Pacific
+1	3	Samoa	#F8766D	#F8766D	Samoa	East Asia & Pacific
+1	3	Yemen, Rep.	#00C094	#00C094	Yemen, Rep.	Middle East & North Africa
+1	3	South Africa	#FB61D7	#FB61D7	South Africa	Sub-Saharan Africa
+1	3	Zambia	#FB61D7	#FB61D7	Zambia	Sub-Saharan Africa
+1	3	Zimbabwe	#FB61D7	#FB61D7	Zimbabwe	Sub-Saharan Africa
